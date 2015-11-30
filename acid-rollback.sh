@@ -6,7 +6,7 @@
 # See http://developer.marklogic.com/blog/marklogic_is_acid_compliant_nosql
 #
 
-HOSTNAME=10.211.55.11
+HOSTNAME=localhost
 PORT=8000
 USER=admin
 PASSWORD=admin
